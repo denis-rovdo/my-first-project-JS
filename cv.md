@@ -20,12 +20,12 @@ I'm 26 years old, originally from Belarus, and currently residing in Wroclaw, Po
 
 ## Education
 * University
-+ Polotsk State University
-- Faculty of Mechanical Engineering
+  + Polotsk State University
+    - Faculty of Mechanical Engineering
 * Courses
-+ THE ROLLING SCOPES SCHOOL
-- JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
-- JAVASCRIPT/FRONT-END 2022Q3
+  + THE ROLLING SCOPES SCHOOL
+    - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
+    - JAVASCRIPT/FRONT-END 2022Q3
 
 ## Language
 * English - Pre-intermediate (every week I go to a conversation club and also watch a lot of videos in English).
