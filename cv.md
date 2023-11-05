@@ -1,23 +1,23 @@
 # Denis Rovdo
-===
+
 ## My Contact Info
-===
+
 * Location: Wroclaw, Poland
 * E-mail: denis.rovdo21@gmaol.com
 * GitHub: [denis-rovdo](https://github.com/denis-rovdo)
 * LinkedIn: [Denis Rovdo](www.linkedin.com/in/denis-rovdo)
 * Discord: [denis_rovdo](https://discordapp.com/users/denis_rovdo/)
-===
+
 ## Summary 
- I'm 26 years old, originally from Belarus, and currently residing in Wroclaw, Poland. I hold a bachelor's degree in mechanical engineering and work in this field. However, my aspiration is to become a front-end developer.
-===
+I'm 26 years old, originally from Belarus, and currently residing in Wroclaw, Poland. I hold a bachelor's degree in mechanical engineering and work in this field. However, my aspiration is to become a front-end developer.
+
 ## Skills 
 * HTML
 * CSS
 * JS
 * Git/GitHub
 * Figma(for web development)
-===
+
 ## Education
 * University
 + Polotsk State University
@@ -26,12 +26,12 @@
 + THE ROLLING SCOPES SCHOOL
 - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
 - JAVASCRIPT/FRONT-END 2022Q3
-===
+
 ## Language
 * English - Pre-intermediate (every week I go to a conversation club and also watch a lot of videos in English).
 * Polish - Pre-intermediate.
 * Russian - native.
-===
+
 # Code example
 ``` 
  function nthFibo(n) {
@@ -49,4 +49,3 @@
         return result;
       }
 ``` 
-===
